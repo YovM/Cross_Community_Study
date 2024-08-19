@@ -11,6 +11,28 @@ This repository complements our recent work on the “Open Source Oriented Cross
 
 # Papers
 
+| Stage          | Citation                                                                                                                                                                                                                                         |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Initial Search | Chenxi Song, Tao Wang, Gang Yin, Xunhui Zhang, and Cheng Yang. A novel open source software ecosystem: From a graphic point of view and its application. In SEKE, pages 71–74, 2016.                                                             |
+|                | Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022. |
+|                | Hao Huang, Yao Lu, and Xinjun Mao. Gathering github oss requirements from q&a community: An empirical study. In 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS), 2020.                                    |
+|                | Hongbo Fang, Bogdan Vasilescu, and James Herbsleb. Understanding information diffusion about open-source projects on twitter, hackernews, and reddit. In 2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), pages 56–67. IEEE, 2023. |
+| Snowball-1     | Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. "this is damn slick!": Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.              |
+|                | W. Huang, W. Mo, B. Shen, Y. Yang, and N. Li, "Cpdscorer: Modeling and evaluating developer programming ability across software communities." in SEKE, 2016, pp. 87–92.                                                                       |
+|                | Ali Sajedi Badashian, Abram Hindle, and Eleni Stroulia. Crowdsourced bug triaging: Leveraging q&a platforms for bug assignment. In Fundamental Approaches to Software Engineering: 19th International Conference, FASE 2016, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2016, Eindhoven, The Netherlands,April 2–8, 2016, Proceedings 19, pages 231–248. Springer, 2016. |
+|                | Yunxiang Xiong, Zhangyuan Meng, Beijun Shen, and Wei Yin. Developer identity linkage and behavior mining across github and stackoverflow. International Journal of Software Engineering and Knowledge Engineering, 27(09n10):1409–1425, 2017.                               |
+|                | And many more...                                                                                                                                                                                                                                 |
+| Snowball-2     | Takahiro Komamizu, Yasuhiro Hayase, Toshiyuki Amagasa, and Hiroyuki Kitagawa. Exploring identical users on github and stack overflow. In SEKE, pages 584–589, 2017.                                                                               |
+|                | Saraj Singh Manes and Olga Baysal. How often and what stackoverflow posts do developers reference in their github projects? In 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), pages 235–239. IEEE, 2019.     |
+|                | Yujie Fan, Yiming Zhang, Shifu Hou, Lingwei Chen, Yanfang Ye, Chuan Shi, Liang Zhao, and Shouhuai Xu. idev: Enhancing social coding security by cross-platform user identification between github and stack overflow. In 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019, 2019. |
+|                | And more...                                                                                                                                                                                                                                      |
+| Snowball-3     | Rahul Venkataramani, Atul Gupta, Allahbaksh Asadullah, Basavaraju Muddu, and Vasudev Bhat. Discovery of technical expertise from open source code repositories. In WWW ’13 Companion: Proceedings of the 22nd International Conference on World Wide Web, 2013.                  |
+|                | Yuan Huang, Furen Xu, Haojie Zhou, Xiangping Chen, Xiaocong Zhou, and Tong Wang. Towards exploring the code reuse from stack overflow during software development. In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pages 548–559, 2022. |
+
+
+
+
+
 ## Analysis of user characteristics.
 - Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.
 - Jungil Kim and Eunjoo Lee. Understanding the working habits of gh-so users on github commit activity and stack overflow post activity. International Journal of Software Engineering and Knowledge Engineering, 31(10):1399–1419, 2021.
