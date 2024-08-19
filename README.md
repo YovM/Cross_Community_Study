@@ -33,13 +33,13 @@ This repository complements our recent work on the “Open Source Oriented Cross
 - Di Yang, Pedro Martins, Vaibhav Saini, and Cristina Lopes. Stack overflow in github: any snippets there? In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), pages 280–290. IEEE, 2017.
 
 ## Analysis of community interactions.
-Hongbo Fang, Bogdan Vasilescu, and James Herbsleb. Understanding information diffusion about open-source projects on twitter, hackernews, and reddit. In 2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), pages 56–67. IEEE, 2023.
-Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. ”this is damn slick!”: Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.
-Hao Huang, Yao Lu, and Xinjun Mao. Gathering github oss requirements from q&a community: An empirical study. In 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS), 2020.
-Chenxi Song, Tao Wang, Gang Yin, Xunhui Zhang, and Cheng Yang. A novel open source software ecosystem: From a graphic point of view and its application. In SEKE, pages 71–74, 2016.
-Huaimin Wang, Tao Wang, Gang Yin, and Cheng Yang. Linking issue tracker with q&a sites for knowledge sharing across communities. IEEE Transactions on Services Computing, 11(5):782–795, 2015.
-Bogdan Vasilescu, Alexander Serebrenik, Prem Devanbu, and Vladimir Filkov. How social q&a sites are changing knowledge sharing in open source software communities. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing, pages 342–354, 2014.
-BORGES Hudson Silva and VALENTE Marco Tulio. How do developers promote open source projects?
+- Hongbo Fang, Bogdan Vasilescu, and James Herbsleb. Understanding information diffusion about open-source projects on twitter, hackernews, and reddit. In 2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), pages 56–67. IEEE, 2023.
+- Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. ”this is damn slick!”: Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.
+- Hao Huang, Yao Lu, and Xinjun Mao. Gathering github oss requirements from q&a community: An empirical study. In 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS), 2020.
+- Chenxi Song, Tao Wang, Gang Yin, Xunhui Zhang, and Cheng Yang. A novel open source software ecosystem: From a graphic point of view and its application. In SEKE, pages 71–74, 2016.
+- Huaimin Wang, Tao Wang, Gang Yin, and Cheng Yang. Linking issue tracker with q&a sites for knowledge sharing across communities. IEEE Transactions on Services Computing, 11(5):782–795, 2015.
+- Bogdan Vasilescu, Alexander Serebrenik, Prem Devanbu, and Vladimir Filkov. How social q&a sites are changing knowledge sharing in open source software communities. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing, pages 342–354, 2014.
+- BORGES Hudson Silva and VALENTE Marco Tulio. How do developers promote open source projects?
 
 # Designed experiments
 ## Dataset
