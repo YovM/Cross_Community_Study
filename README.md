@@ -92,6 +92,11 @@ This repository complements our recent work on the “Open Source Oriented Cross
 | **badashian2014involvement**          | 255,375 GitHub-Stack Overflow user pairs (2008-09-01 to 2013-08-31).                                                                    | [University of Alberta - Merged Dataset](http://hypatia.cs.ualberta.ca/~alisajedi/Mining_GH_and_SO-MergedDataSet.zip)                                         |
 | **Zhang-devrec**                      | 136 popular projects, 99 unpopular projects (2014-09-14 to 2016).                                                                       | [Trustie - Statistics](https://www.trustie.net/statistics/5)                                                                                                  |
 
+- **Fang-tweet-impact**：Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. "this is damn slick!": Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.
+- **Fang-2020-Need-for-Tweet**：Hongbo Fang, Daniel Klug, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. Need for tweet: How open source developers talk about their github work on twitter. In MSR ’20: Proceedings of the 17th International Conference on Mining Software Repositories, 2020.
+- **Manes-code-snippets**：Saraj Singh Manes and Olga Baysal. Studying the change histories of stack overflow and github snippets. In 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), pages 283–294, 2021.
+- **badashian2014involvement**：Ali Sajedi Badashian, Afsaneh Esteki, Ameneh Gholipour, Abram Hindle, and Eleni Stroulia. Involvement, contribution and influence in github and stack overflow. In CASCON, pages 19–33, 2014.
+- **Zhang-devrec**：X. Zhang, T. Wang, G. Yin, C. Yang, Y. Yu, and H. Wang, “Devrec: A developer recommendation system for open source repositories,” in International Conference on Software Reuse. Springer, 2017, pp. 3–11.
 
 
 # Cites
