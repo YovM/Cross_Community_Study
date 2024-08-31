@@ -1,14 +1,6 @@
 # Cross_Community_Study
 This repository complements our recent work on the “Open Source Oriented Cross-community Survey”. The repository includes papers related to our research as well as related resources (datasets, etc.).
 
-
-# Contents
--  Analysis of user characteristics.
--  Analysis of code reuse.
--  Analysis of community interactions.
-- Designed experiments (Dataset(dataset name, dataset description, access link),tools used)
-
-
 # Search string
 specific search strings employed for each database:
 | Search Database | Search Strings | Paper Numbers |
