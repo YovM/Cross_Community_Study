@@ -46,6 +46,12 @@ specific search strings employed for each database:
 | Snowball-3      | Rahul Venkataramani, Atul Gupta, Allahbaksh Asadullah, Basavaraju Muddu, and Vasudev Bhat. Discovery of technical expertise from open source code repositories. In WWW ’13 Companion: Proceedings of the 22nd International Conference on World Wide Web, 2013.                                                        |
 |                 | Yuan Huang, Furen Xu, Haojie Zhou, Xiangping Chen, Xiaocong Zhou, and Tong Wang. Towards exploring the code reuse from stack overflow during software development. In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pages 548–559, 2022.                                         |
 
+## Additional papers:
+
+- Xiangping Chen, Furen Xu, Yuan Huang, Xiaocong Zhou, and Zibin Zheng. An empirical study of code reuse between github and stack overflow during software development. Journal of Systems and Software, 210:111964, 2024.
+- Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science, 10:e1669, 2024.
+- Aref Talebzadeh Bardsiri and Abbas Rasoolzadegan. Evaluating developers’ expertise in serverless functions by mining activities from multiple platforms. Computer and Knowledge Engineering, 2024.
+- Hanzhi Jiang, Lin Shi, Meiru Che, Yuxia Zhang, and Qing Wang. Bringing open source communication and development together: A cross-platform study on gitter and github. IEEE Transactions on Software Engineering, 2024.
 
 
 ## Analysis of user characteristics.
