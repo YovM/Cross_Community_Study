@@ -55,6 +55,7 @@ specific search strings employed for each database:
 
 
 ## Analysis of user characteristics.
+- Aref Talebzadeh Bardsiri and Abbas Rasoolzadegan. Evaluating developers’ expertise in serverless functions by mining activities from multiple platforms. Computer and Knowledge Engineering, 2024.
 - Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.
 - Jungil Kim and Eunjoo Lee. Understanding the working habits of gh-so users on github commit activity and stack overflow post activity. International Journal of Software Engineering and Knowledge Engineering, 31(10):1399–1419, 2021.
 - Hongbo Fang, Daniel Klug, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. Need for tweet: How open source developers talk about their github work on twitter. In MSR ’20: Proceedings of the 17th International Conference on Mining Software Repositories, 2020.
@@ -72,6 +73,7 @@ specific search strings employed for each database:
 
 
 ## Analysis of code reuse.
+- Xiangping Chen, Furen Xu, Yuan Huang, Xiaocong Zhou, and Zibin Zheng. An empirical study of code reuse between github and stack overflow during software development. Journal of Systems and Software, 210:111964, 2024.
 - Yuan Huang, Furen Xu, Haojie Zhou, Xiangping Chen, Xiaocong Zhou, and Tong Wang. Towards exploring the code reuse from stack overflow during software development. In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pages 548–559, 2022.
 - Saraj Singh Manes and Olga Baysal. Studying the change histories of stack overflow and github snippets. In 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), pages 283–294, 2021.
 - Saraj Singh Manes and Olga Baysal. How often and what stackoverflow posts do developers reference in their github projects? In 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), pages 235–239. IEEE, 2019.
@@ -79,6 +81,8 @@ specific search strings employed for each database:
 - Di Yang, Pedro Martins, Vaibhav Saini, and Cristina Lopes. Stack overflow in github: any snippets there? In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), pages 280–290. IEEE, 2017.
 
 ## Analysis of community interactions.
+- Hanzhi Jiang, Lin Shi, Meiru Che, Yuxia Zhang, and Qing Wang. Bringing open source communication and development together: A cross-platform study on gitter and github. IEEE Transactions on Software Engineering, 2024.
+- Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science,10:e1669, 2024.
 - Hongbo Fang, Bogdan Vasilescu, and James Herbsleb. Understanding information diffusion about open-source projects on twitter, hackernews, and reddit. In 2023 IEEE/ACM 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), pages 56–67. IEEE, 2023.
 - Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. ”this is damn slick!”: Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.
 - Hao Huang, Yao Lu, and Xinjun Mao. Gathering github oss requirements from q&a community: An empirical study. In 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS), 2020.
@@ -100,12 +104,16 @@ specific search strings employed for each database:
 | **Manes-code-snippets**               | 22,900 projects, 33,765 SO references mapped to 4,634 SO posts, 73,322 commits.                                                         | [GitHub - GHCodeSnippetHistory](https://github.com/manessaraj/GHCodeSnippetHistory)                                                                           |
 | **badashian2014involvement**          | 255,375 GitHub-Stack Overflow user pairs (2008-09-01 to 2013-08-31).                                                                    | [University of Alberta - Merged Dataset](http://hypatia.cs.ualberta.ca/~alisajedi/Mining_GH_and_SO-MergedDataSet.zip)                                         |
 | **Zhang-devrec**                      | 136 popular projects, 99 unpopular projects (2014-09-14 to 2016).                                                                       | [Trustie - Statistics](https://www.trustie.net/statistics/5)                                                                                                  |
+|  **chen2024empirical**                | 793 Java projects with a total of 342,148 modified code snippets and 1,355,617 Stack Overflow posts                                     | [Code Reuse Analysis](https://github.com/love-SE/Code-Reuse-Analysis)
+|  **islam2024empirical**               | 14,330 GitHub-Twitter npm maintainers and 39,425 tweets                                                                                 | [Zenodo Record](https://zenodo.org/record/8246509)
 
 - **Fang-tweet-impact**：Hongbo Fang, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. "this is damn slick!": Estimating the impact of tweets on open source project popularity and new contributors. In ICSE ’22: Proceedings of the 44th International Conference on Software Engineering, 2022.
 - **Fang-2020-Need-for-Tweet**：Hongbo Fang, Daniel Klug, Hemank Lamba, James Herbsleb, and Bogdan Vasilescu. Need for tweet: How open source developers talk about their github work on twitter. In MSR ’20: Proceedings of the 17th International Conference on Mining Software Repositories, 2020.
 - **Manes-code-snippets**：Saraj Singh Manes and Olga Baysal. Studying the change histories of stack overflow and github snippets. In 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), pages 283–294, 2021.
 - **badashian2014involvement**：Ali Sajedi Badashian, Afsaneh Esteki, Ameneh Gholipour, Abram Hindle, and Eleni Stroulia. Involvement, contribution and influence in github and stack overflow. In CASCON, pages 19–33, 2014.
 - **Zhang-devrec**：X. Zhang, T. Wang, G. Yin, C. Yang, Y. Yu, and H. Wang, “Devrec: A developer recommendation system for open source repositories,” in International Conference on Software Reuse. Springer, 2017, pp. 3–11.
+- **chen2024empirical**:Xiangping Chen, Furen Xu, Yuan Huang, Xiaocong Zhou, and Zibin Zheng. An empirical study of code reuse between github and stack overflow during software development. Journal of Systems and Software, 210:111964, 2024.
+- **islam2024empirical**:Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science,10:e1669, 2024.
 
 
 # Cites
