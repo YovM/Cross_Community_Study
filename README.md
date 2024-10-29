@@ -1,9 +1,9 @@
-# Cross_Community_Study
+# Cross_Community_Study🔍🌐
 This repository complements our recent work on the “Open Source Oriented Cross-community Survey”. The repository includes papers related to our research as well as related resources (datasets, etc.).
 
-# Search string
+# 📚 Search string
 specific search strings employed for each database:
-| Search Database | Search Strings | Paper Numbers |
+|🔍 Search Database |🔗 Search Strings |📄 Paper Numbers |
 |-----------------|----------------|---------------|
 | ACM             | (Title: (("open source" OR "oss")) OR Abstract: (("open source" OR "oss"))) AND (Title: (("across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems")) OR Abstract: (("across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems"))) | 111 |
 | Springer        | ("open source" OR "oss") AND ("across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems") | 1209 |
@@ -13,7 +13,7 @@ specific search strings employed for each database:
 
 # Papers
 
-| Searching phase | Related study                                                                                                                                                                                                                                                                                                                                                                  |
+|🔄 Searching phase | Related study 📖                                                                                                                                                                                                                                                                                                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Initial Search  | Chenxi Song, Tao Wang, Gang Yin, Xunhui Zhang, and Cheng Yang. A novel open source software ecosystem: From a graphic point of view and its application. In SEKE, pages 71–74, 2016.                                                                                                                                                                                          |
 |                 | Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.                                                                                         |
@@ -46,7 +46,7 @@ specific search strings employed for each database:
 | Snowball-3      | Rahul Venkataramani, Atul Gupta, Allahbaksh Asadullah, Basavaraju Muddu, and Vasudev Bhat. Discovery of technical expertise from open source code repositories. In WWW ’13 Companion: Proceedings of the 22nd International Conference on World Wide Web, 2013.                                                        |
 |                 | Yuan Huang, Furen Xu, Haojie Zhou, Xiangping Chen, Xiaocong Zhou, and Tong Wang. Towards exploring the code reuse from stack overflow during software development. In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pages 548–559, 2022.                                         |
 
-## Additional papers:
+## 📂 Additional papers:
 
 - Xiangping Chen, Furen Xu, Yuan Huang, Xiaocong Zhou, and Zibin Zheng. An empirical study of code reuse between github and stack overflow during software development. Journal of Systems and Software, 210:111964, 2024.
 - Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science, 10:e1669, 2024.
@@ -54,7 +54,7 @@ specific search strings employed for each database:
 - Hanzhi Jiang, Lin Shi, Meiru Che, Yuxia Zhang, and Qing Wang. Bringing open source communication and development together: A cross-platform study on gitter and github. IEEE Transactions on Software Engineering, 2024.
 
 
-## Analysis of user characteristics.
+## 📊 Analysis of user characteristics.
 - Aref Talebzadeh Bardsiri and Abbas Rasoolzadegan. Evaluating developers’ expertise in serverless functions by mining activities from multiple platforms. Computer and Knowledge Engineering, 2024.
 - Xiaotao Song, Jiafei Yan, Yuexin Huang, Hailong Sun, and Hongyu Zhang. A collaboration-aware approach to profiling developer expertise with cross-community data. In 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pages 344–355, 2022.
 - Jungil Kim and Eunjoo Lee. Understanding the working habits of gh-so users on github commit activity and stack overflow post activity. International Journal of Software Engineering and Knowledge Engineering, 31(10):1399–1419, 2021.
@@ -90,10 +90,10 @@ specific search strings employed for each database:
 - Bogdan Vasilescu, Alexander Serebrenik, Prem Devanbu, and Vladimir Filkov. How social q&a sites are changing knowledge sharing in open source software communities. In Proceedings of the 17th ACM conference on Computer supported cooperative work & social computing, pages 342–354, 2014.
 - BORGES Hudson Silva and VALENTE Marco Tulio. How do developers promote open source projects?
 
-# Designed experiments
-## Dataset
+# 🧪 Designed experiments
+## Dataset 📂
 
-| Dataset Name/Related Study            | Dataset Description                                                                                                                     | Access Link                                                                                                                                                  |
+| Dataset Name/Related Study            | Dataset Description                                                                                                                     | Access Link 🔗                                                                                                                                                 |
 |---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **GHTorrent**                         | Gathered more than 900GB of raw data and 10GB of metadata, encompassing millions of events, commits, and other entities.                | [GitHub Mirror](https://github.com/gousiosg/github-mirror)                                                                                                    |
 | **SOTorrent**                         | 38.4 million Stack Overflow posts, extracted 11 million URLs, and identified 5.81 million post links in 430,521 GitHub projects.        | [Zenodo - SOTorrent](https://zenodo.org/records/1196296) (Note: Multiple dataset versions for different periods are available on Zenodo.)                     |
@@ -116,7 +116,7 @@ specific search strings employed for each database:
 - **islam2024empirical**:Syful Islam, Yusuf Sulistyo Nugroho, Chy Md Shahrear, Nuhash Wahed, Dedi Gunawan, Endang Wahyu Pamungkas, Mohammed Humayun Kabir, Yogiek Indra Kurniawan, and Md Kamal Uddin. An empirical study of software ecosystem related tweets by npm maintainers. PeerJ Computer Science,10:e1669, 2024.
 
 
-# Cites
+# 🤝 Cites
 
 
   
