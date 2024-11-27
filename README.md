@@ -8,23 +8,7 @@ specific search strings employed for each database:
 | ACM             | (Title: (("open source" OR "oss")) OR Abstract: (("open source" OR "oss"))) AND (Title: (("across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems")) OR Abstract: (("across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems"))) | 111 |
 | Springer        | ("open source" OR "oss") AND ("across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems") | 1209 |
 | IEEE Xplore     | (("Document Title":"open source" OR "Document Title":"oss") OR ("Abstract":"open source" OR "Abstract":"oss")) AND ("Document Title":"across communities" OR "Document Title":"across platforms" OR "Document Title":"across networks" OR "Document Title":"across systems" OR "Document Title":"cross community" OR "Document Title":"cross platform" OR "Document Title":"cross network" OR "Document Title":"cross system" OR "Document Title":"multi community" OR "Document Title":"multi platform" OR "Document Title":"multi network" OR "Document Title":"multi system" OR "Document Title":"multiple communities" OR "Document Title":"multiple platforms" OR "Document Title":"multiple networks" OR "Document Title":"multiple systems" OR "Abstract":"across communities" OR "Abstract":"across platforms" OR "Abstract":"across networks" OR "Abstract":"across systems" OR "Abstract":"cross community" OR "Abstract":"cross platform" OR "Abstract":"cross network" OR "Abstract":"cross system" OR "Abstract":"multi community" OR "Abstract":"multi platform" OR "Abstract":"multi network" OR "Abstract":"multi system" OR "Abstract":"multiple communities" OR "Abstract":"multiple platforms" OR "Abstract":"multiple networks" OR "Abstract":"multiple systems") | 222 |
-| Scopus          | TITLE-ABS-KEY ( 
-    ( "open source" OR "oss" ) 
-    AND 
-    ( "across communities" OR "across platforms" OR "across networks" OR "across systems" 
-    OR "cross community" OR "cross platform" OR "cross network" OR "cross system" 
-    OR "multi community" OR "multi platform" OR "multi network" OR "multi system" 
-    OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems" ) 
-) 
-AND PUBYEAR > 2012 AND PUBYEAR < 2025 
-AND ( 
-    LIMIT-TO ( DOCTYPE , "cp" ) OR LIMIT-TO ( DOCTYPE , "ar" ) 
-    OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "cr" ) 
-) 
-AND LIMIT-TO ( SUBJAREA , "COMP" ) 
-AND LIMIT-TO ( LANGUAGE , "English" )
- | 714 |
-
+| Scopus            | TITLE-ABS-KEY (   ( "open source" OR "oss" ) AND ( "across communities" OR "across platforms" OR "across networks" OR "across systems" OR "cross community" OR "cross platform" OR "cross network" OR "cross system" OR "multi community" OR "multi platform" OR "multi network" OR "multi system" OR "multiple communities" OR "multiple platforms" OR "multiple networks" OR "multiple systems" ) ) AND PUBYEAR > 2012 AND PUBYEAR < 2025 AND ( LIMIT-TO ( DOCTYPE , "cp" ) OR LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "re" ) OR LIMIT-TO ( DOCTYPE , "cr" ) ) AND LIMIT-TO ( SUBJAREA , "COMP" ) AND LIMIT-TO ( LANGUAGE , "English" ) | 714 |
 
 # Papers
 
